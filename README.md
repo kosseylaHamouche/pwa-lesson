@@ -1,4 +1,4 @@
 # pwa-lesson
 
-npm install
-npx polymer serve
+#### npm install
+#### npx polymer serve
